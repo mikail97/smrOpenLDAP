@@ -1,1 +1,2 @@
-# smrOpenLDAP
+# 2ºSMR | Estructura OpenLDAP
+Este repositorio ha sido creado con fines educativos y puede ser utilizado por cualquier usuario siempre y cuando de reconocimiento al creador de los contenidos de dicho repositorio. En este repositorio vas a encontrar un script principal que te servirá junto a otros ficheros .csv a instalar una estructura de unidades organizativas, grupos, usuarios y equipos. Todo esto llevado a cabo por el script y la información de los usuarios, grupos, etc, se le pasa al script mediante los ficheros .csv.
