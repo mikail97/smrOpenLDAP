@@ -1,0 +1,17 @@
+Nombre:RutaContenedor:ObjectClass
+Udesktop-1:cn=Udesktop-1,ou=EquiposDeptDIR,ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-2:cn=Udesktop-2,ou=EquiposDeptDIR,ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-3:cn=Udesktop-3,ou=EquiposDeptDIR,ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-4:cn=Udesktop-4,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-5:cn=Udesktop-5,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-6:cn=Udesktop-6,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-7:cn=Udesktop-7,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-8:cn=Udesktop-8,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-9:cn=Udesktop-9,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-10:cn=Udesktop-10,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-11:cn=Udesktop-11,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-12:cn=Udesktop-12,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-13:cn=Udesktop-13,ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-14:cn=Udesktop-14,ou=EquiposDeptINF,ou=DeptInformatica,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-15:cn=Udesktop-15,ou=EquiposDeptCON,ou=DeptConserjeria,dc=Iesbrochillop,dc=edu-gva,dc=es:device
+Udesktop-16:cn=Udesktop-16,ou=EquiposDeptCON,ou=DeptConserjeria,dc=Iesbrochillop,dc=edu-gva,dc=es:device

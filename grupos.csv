@@ -1,0 +1,5 @@
+NombreGrupo:RutaContenedor:ObjectClass:ID
+GrupoDireccion:cn=GrupoDireccion,ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es:posixGroup:20000
+GrupoDocenciaBACH:cn=GrupoDocenciaBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es:posixGroup:20001
+GrupoInformatica:cn=GrupoInformatica,ou=DeptInformatica,dc=Iesbrochillop,dc=edu-gva,dc=es:posixGroup:20002
+GrupoConserjeria:cn=GrupoConserjeria,ou=DeptConserjeria,dc=Iesbrochillop,dc=edu-gva,dc=es:posixGroup:20003

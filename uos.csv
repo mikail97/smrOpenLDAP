@@ -1,0 +1,9 @@
+Nombre:RutaContenedor
+DeptDireccion:ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es
+EquiposDeptDIR:ou=EquiposDeptDIR,ou=DeptDireccion,dc=Iesbrochillop,dc=edu-gva,dc=es
+DeptDocenciaBACH:ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es
+EquiposDeptBACH:ou=EquiposDeptBACH,ou=DeptDocenciaBACH,dc=Iesbrochillop,dc=edu-gva,dc=es
+DeptInformatica:ou=DeptInformatica,dc=Iesbrochillop,dc=edu-gva,dc=es
+EquiposDeptINF:ou=EquiposDeptINF,ou=DeptInformatica,dc=Iesbrochillop,dc=edu-gva,dc=es
+DeptConserjeria:ou=DeptConserjeria,dc=Iesbrochillop,dc=edu-gva,dc=es
+EquiposDeptCON:ou=EquiposDeptCON,ou=DeptConserjeria,dc=Iesbrochillop,dc=edu-gva,dc=es
